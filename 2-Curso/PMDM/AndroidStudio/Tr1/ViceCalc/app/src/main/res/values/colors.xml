@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Colores ViceCalc -->
+    <color name="fondo_principal">#1A1026</color>
+    <color name="fondo_pantalla">#100D1D</color>
+    <color name="boton_numero">#30233F</color>
+    <color name="boton_funcion">#634079</color>
+    <color name="boton_cientifico">#49305F</color>
+    <color name="boton_operacion">#B93E82</color>
+    <color name="rosa_neon">#FF62BA</color>
+    <color name="naranja_atardecer">#FFAE65</color>
+    <color name="texto_principal">#FFF3FA</color>
+    <color name="texto_secundario">#CE8CAC</color>
+</resources>

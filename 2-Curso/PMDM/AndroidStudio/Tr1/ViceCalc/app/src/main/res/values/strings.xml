@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- INFORMACIÓN DE LA APLICACIÓN -->
+
+    <string name="app_name" translatable="false">Vice Calc</string>
+    <string name="titulo" translatable="false">VICE CALC</string>
+    <string name="modo_basico">STANDARD MODE</string>
+    <string name="modo_cientifico">SCIENTIFIC MODE</string>
+    <string name="resultado_inicial" translatable="false">0</string>
+
+
+    <!-- CALCULADORA BÁSICA -->
+
+    <!-- Botones numéricos -->
+    <string name="btn_0" translatable="false">0</string>
+    <string name="btn_1" translatable="false">1</string>
+    <string name="btn_2" translatable="false">2</string>
+    <string name="btn_3" translatable="false">3</string>
+    <string name="btn_4" translatable="false">4</string>
+    <string name="btn_5" translatable="false">5</string>
+    <string name="btn_6" translatable="false">6</string>
+    <string name="btn_7" translatable="false">7</string>
+    <string name="btn_8" translatable="false">8</string>
+    <string name="btn_9" translatable="false">9</string>
+    <string name="btn_decimal" translatable="false">.</string>
+
+    <!-- Botones de funciones -->
+    <string name="btn_ac" translatable="false">AC</string>
+    <string name="btn_signo" translatable="false">±</string>
+    <string name="btn_porcentaje" translatable="false">%</string>
+    <string name="btn_borrar" translatable="false">⌫</string>
+
+    <!-- Botones de operaciones -->
+    <string name="btn_sumar" translatable="false">+</string>
+    <string name="btn_restar" translatable="false">−</string>
+    <string name="btn_multiplicar" translatable="false">×</string>
+    <string name="btn_dividir" translatable="false">÷</string>
+    <string name="btn_igual" translatable="false">=</string>
+
+
+    <!-- CALCULADORA CIENTÍFICA -->
+
+    <!-- Unidades angulares -->
+    <string name="btn_grados" translatable="false">DEG</string>
+    <string name="btn_radianes" translatable="false">RAD</string>
+
+    <!-- Constantes matemáticas -->
+    <string name="btn_pi" translatable="false">π</string>
+    <string name="btn_e" translatable="false">e</string>
+
+    <!-- Funciones trigonométricas -->
+    <string name="btn_sin" translatable="false">sin</string>
+    <string name="btn_cos" translatable="false">cos</string>
+    <string name="btn_tan" translatable="false">tan</string>
+
+    <!-- Funciones trigonométricas inversas -->
+    <string name="btn_asin" translatable="false">asin</string>
+    <string name="btn_acos" translatable="false">acos</string>
+    <string name="btn_atan" translatable="false">atan</string>
+
+    <!-- Potencias y raíces -->
+    <string name="btn_cuadrado" translatable="false">x²</string>
+    <string name="btn_cubo" translatable="false">x³</string>
+    <string name="btn_potencia" translatable="false">xʸ</string>
+    <string name="btn_raiz" translatable="false">√x</string>
+    <string name="btn_raiz_cubica" translatable="false">∛x</string>
+
+    <!-- Logaritmos y exponencial -->
+    <string name="btn_log" translatable="false">log</string>
+    <string name="btn_ln" translatable="false">ln</string>
+    <string name="btn_exponencial" translatable="false">eˣ</string>
+
+    <!-- Otras funciones científicas -->
+    <string name="btn_inverso" translatable="false">1/x</string>
+    <string name="btn_factorial" translatable="false">x!</string>
+    <string name="btn_absoluto" translatable="false">|x|</string>
+
+    <!-- MENSAJES DE ERROR -->
+    <string name="error_matematico">Error</string>
+
+</resources>

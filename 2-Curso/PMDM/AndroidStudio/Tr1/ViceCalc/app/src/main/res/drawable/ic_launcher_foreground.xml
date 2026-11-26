@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Cuerpo de la calculadora -->
+    <path
+        android:fillColor="#30233F"
+        android:strokeWidth="2.5"
+        android:pathData="M44,27 H76 Q84,27 84,35 V85 Q84,93 76,93 H44 Q36,93 36,85 V35 Q36,27 44,27 Z">
+
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="36"
+                android:startY="27"
+                android:endX="84"
+                android:endY="93"
+                android:startColor="#FF62BA"
+                android:endColor="#FFAE65"
+                android:type="linear" />
+        </aapt:attr>
+
+    </path>
+
+    <!-- Pantalla -->
+    <path
+        android:pathData="M46,36 H74 Q77,36 77,39 V48 Q77,51 74,51 H46 Q43,51 43,48 V39 Q43,36 46,36 Z">
+
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="43"
+                android:startY="36"
+                android:endX="77"
+                android:endY="51"
+                android:startColor="#FF62BA"
+                android:endColor="#FFAE65"
+                android:type="linear" />
+        </aapt:attr>
+
+    </path>
+
+    <!-- Botones numéricos -->
+    <path
+        android:fillColor="#CE8CAC"
+        android:pathData="
+            M43,57 h9 v7 h-9 Z
+            M55,57 h9 v7 h-9 Z
+            M43,68 h9 v7 h-9 Z
+            M55,68 h9 v7 h-9 Z
+            M43,79 h9 v7 h-9 Z
+            M55,79 h9 v7 h-9 Z" />
+
+    <!-- Botones de operaciones -->
+    <path
+        android:fillColor="#FF62BA"
+        android:pathData="
+            M67,57 h10 v7 h-10 Z
+            M67,68 h10 v7 h-10 Z
+            M67,79 h10 v7 h-10 Z" />
+
+</vector>

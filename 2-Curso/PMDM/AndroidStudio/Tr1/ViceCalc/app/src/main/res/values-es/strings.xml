@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vice Calc</string>
+    <string name="modo_basico">MODO BÁSICO</string>
+    <string name="modo_cientifico">MODO CIENTÍFICO</string>
+    <string name="error_matematico">Error</string>
+</resources>
